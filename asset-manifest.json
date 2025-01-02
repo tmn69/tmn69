@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tmn69/static/css/main.65f95f30.css",
+    "main.js": "/tmn69/static/js/main.ca99002f.js",
+    "index.html": "/tmn69/index.html",
+    "main.65f95f30.css.map": "/tmn69/static/css/main.65f95f30.css.map",
+    "main.ca99002f.js.map": "/tmn69/static/js/main.ca99002f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f95f30.css",
+    "static/js/main.ca99002f.js"
+  ]
+}
